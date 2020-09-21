@@ -14,6 +14,7 @@ class Router
       
       puts "#########################################"
       puts "\t\t\tMenu Principal\t\t\t"
+      puts "\t\t\tTu veux fair quoi BG? \t\t\t"
       puts "1. Creation de gossip"
       puts "2. Affichage des Gossips"
       puts "3. Suppression des Gossips"
