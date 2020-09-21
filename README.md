@@ -16,7 +16,7 @@ Pour lancer le projet, il faut tout d'abord installer le **gem** necessaire, pou
 
 Apres, tapez dans la console, 
 > $ ruby app.rb
-
+<br>
 Le programme se lance, il demande a l'utilisateur de faire le choix, si l'user choisi:
 
 > 1- Creation du gossip
